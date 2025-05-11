@@ -36,7 +36,7 @@ In the latest firmware update, a small event for Earth Day 2022 was discovered. 
 
 There have been a few updates to the vr launcher in the latest firmware updates. Four new options have been added and one has been removed, with no changes in the most recent update. It's not clear what these changes will mean for users.
 
-You can get the [latest version of vrLauncher here](https://github.com/basti564/vrLauncher/releases/)
+You can get the [latest version of vrLauncher here](https://github.com/ptrpaws/vrLauncher/releases/)
 
 ```
 v38 added:

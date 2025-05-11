@@ -15,7 +15,7 @@ Hello and welcome, today I’m going to show you how to enable background audio 
 First you will need to enable Developer mode on your Quest, most of you probably already have it enabled, you can follow [this tutorial to enable developer mode](https://developer.oculus.com/documentation/native/android/mobile-device-setup/)
 
 ## Download Oculess
-Next you will need to [download an app that I have written called Oculess](https://github.com/basti564/Oculess/releases/tag/v1.3.3), if you already have it installed you’re probably on an older version of it that doesn’t have the background audio feature so you still have to download this update. All you need to do is save the .apk file from GitHub on your desktop so that you can access it later. 
+Next you will need to [download an app that I have written called Oculess](https://github.com/ptrpaws/Oculess/releases/tag/v1.3.3), if you already have it installed you’re probably on an older version of it that doesn’t have the background audio feature so you still have to download this update. All you need to do is save the .apk file from GitHub on your desktop so that you can access it later.
 
 ## Download Discord or Spotify
 Then we need to get a copy of the app you want to use in the background, for example [Discord](https://m.apkpure.com/discord-chat-talk-hangout/com.discord/download) or [Spotify](https://m.apkpure.com/spotify-music-i/com.spotify.music/download). The links are from Apkpure, but it doesn’t really matter from where you get yours.
@@ -24,7 +24,7 @@ Then we need to get a copy of the app you want to use in the background, for exa
 There are many ways to install the apps we have downloaded. I’m going to show you how to install the apps via SideQuest since it’s the easiest way and you probably already have it setup, but if you are using a PC you can also install the downloaded apps directly via ADB, or if you are using an android phone you can use [Bugjaeger](https://play.google.com/store/apps/details?id=eu.sisik.hackendebug&hl=en&gl=US) with an OTG cable to install them.
 
 If you already know how to sideload an APK to the Quest, just download the APK from step 1.
-1. Click this icon in SideQuest 
+1. Click this icon in SideQuest
 
 ![Install APK from folder](/assets/images/posts/install.PNG)
 2. Select the APK files you have downloaded

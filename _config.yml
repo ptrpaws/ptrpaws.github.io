@@ -1,22 +1,22 @@
 site: blahaj.life
-title: Basti564's blog 🌸
+title: ptrpaws's blog 🌸
 description: |-
-  Hey, I'm <a href="https://twitter.com/basti564">Bastian</a> and 20 y/o!
+  Hey, I'm <a href="https://twitter.com/ptrpaws">Ellie</a> and 21 y/o!
   And this is my blog on reverse engineering, programming, vr finds and miscellaneous stuff.
   You can find my firmware archive and other things @ <a href="https://cocaine.trade">cocaine.trade</a>
 lang: en-US
 timezone:  Europe/Rome
 data-theme: dark # default theme "dark" | "light"
-repo: basti564/basti564.github.io # site repo for utterances [optional]
+repo: ptrpaws/ptrpaws.github.io # site repo for utterances [optional]
 comments-enabled: true # true to enable utterances comments, false to hide them
 
 author:
-  name: bastian
+  name: ellie
   avatar: https://pbs.twimg.com/profile_images/1614056067377274880/0br2M55j_400x400.png
   username: # general username
-  github: basti564 # github username
-  twitter: basti564 # twitter username
-  mastodon: wetdry.world/@basti564 # mastodon profile (ex. mastodon.social/@my_username)
+  github: ptrpaws # github username
+  twitter: ptrpaws # twitter username
+  mastodon: wetdry.world/@ptrpaws # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
   email: blahaj564+site@gmail.com # email adress
 
@@ -29,8 +29,8 @@ baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of hos
 permalink: pretty
 
 # local
-# url: "http://localhost:4000" # 
-# baseurl: "" # 
+# url: "http://localhost:4000" #
+# baseurl: "" #
 
 
 markdown: kramdown
@@ -47,7 +47,7 @@ exclude:
   - LICENSE.md
   - README.md
   - CONTRIBUTING.md
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -68,7 +68,7 @@ collections:
   posts:
     output: true
     permalink: /:slug # /:year/:month/:day/:slug
-  
+
 defaults:
   -
     scope:
@@ -91,5 +91,3 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
-
-

@@ -41,9 +41,9 @@ This step is optional and the tutorial will work with a Facebook account, but yo
 
 ### Sideloading the APK
 If you already know how to sideload an APK to the Quest, just download the APK from step 1.
-1. Download the Oculess.apk from [here](https://github.com/basti564/Oculess/releases)
+1. Download the Oculess.apk from [here](https://github.com/ptrpaws/Oculess/releases)
 2. Follow this [Video Guide](https://youtu.be/RoIXxIfRNTw?t=125) by "Virtual Reality Oasis"
-3. Click this icon in Sidequest 
+3. Click this icon in Sidequest
 
 ![Install APK from folder](/assets/images/posts/install.PNG)
 4. Select the APK file you have downloaded in step 1
@@ -56,7 +56,7 @@ If you already know how to sideload an APK to the Quest, just download the APK f
 4. Open the "Oculess" app (com.bos.oculess)
 5. Click the "DISABLE COMPANION" Button
 6. Choose "Companion Server" from the List
-7. Click "Deactivate this device admin app" 
+7. Click "Deactivate this device admin app"
 8. Restart your Quest
 
 ### Logging back in

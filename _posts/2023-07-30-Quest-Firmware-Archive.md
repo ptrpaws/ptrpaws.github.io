@@ -22,7 +22,7 @@ A complete tutorial from me will follow, but until then you can use this [reddit
 
 Now onto something fun: Here is how we obtain the .zip firmware updates in the first place in order to put them on the archive.
 
-Archiving the firmware for Meta VR headsets can be a challenging task due to various factors, including Quests auto updating and the existence of partial updates, which are pretty much useless for analysis. Most .zip files on the web originate in methods like running `adb logcat | grep "initial url:"` to find URLs ending in .zip, or using `adb bugreport` during an update to obtain the URL from the generated bug report zip. 
+Archiving the firmware for Meta VR headsets can be a challenging task due to various factors, including Quests auto updating and the existence of partial updates, which are pretty much useless for analysis. Most .zip files on the web originate in methods like running `adb logcat | grep "initial url:"` to find URLs ending in .zip, or using `adb bugreport` during an update to obtain the URL from the generated bug report zip.
 
 ### Obtaining a DAT
 
@@ -46,4 +46,4 @@ Please note that the DAT determines which release channel you get. If the DAT co
 
 The Meta Quest Firmware Archive at [cocaine.trade](https://cocaine.trade/) is a valuable resource for looking up information about various firmware versions conveniently, be that to analyse them, update to a specific version, before updates are available or even downgrade in the future if unlocked Quests become a thing.
 
-Firmware archiving is an ongoing process, and I will continue to update the archive with new firmware versions as they are released and if you stumble across missing .zip files feel free to shoot me a dm on Twitter @basti564
+Firmware archiving is an ongoing process, and I will continue to update the archive with new firmware versions as they are released and if you stumble across missing .zip files feel free to shoot me a dm on Twitter @ptrpaws

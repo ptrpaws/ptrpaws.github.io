@@ -18,9 +18,9 @@ Disabeling Telemetry has little sideeffect, the only ones known so far are
 
 ### Sideloading the APK
 If you already know how to sideload an APK to the Quest, just download the APK from step 1.
-1. Download the Oculess.apk from [here](https://github.com/basti564/Oculess/releases)
+1. Download the Oculess.apk from [here](https://github.com/ptrpaws/Oculess/releases)
 2. Follow this [Video Guide](https://youtu.be/RoIXxIfRNTw?t=125) by "Virtual Reality Oasis"
-3. Click this icon in SideQuest 
+3. Click this icon in SideQuest
 
 ![Install APK from folder](/assets/images/posts/install.PNG)
 4. Select the APK file you have downloaded in step 1
