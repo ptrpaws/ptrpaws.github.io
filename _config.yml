@@ -1,4 +1,4 @@
-site: blahaj.life
+site: ptrpa.ws
 title: ptrpaws's blog 🌸
 description: |-
   Hey, I'm <a href="https://twitter.com/ptrpaws">Ellie</a> and 21 y/o!
@@ -18,13 +18,13 @@ author:
   twitter: ptrpaws # twitter username
   mastodon: wetdry.world/@ptrpaws # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
-  email: blahaj564+site@gmail.com # email adress
+  email: e3e+site@disroot.org # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://blahaj.life" # Domain Name of host. [username].github.io for github pages
+url: "https://ptrpa.ws" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
