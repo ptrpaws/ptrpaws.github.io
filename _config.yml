@@ -1,9 +1,10 @@
 site: ptrpa.ws
 title: ptrpaws's blog 🌸
 description: |-
-  Hey, I'm <a href="https://twitter.com/ptrpaws">Ellie</a> and 21 y/o!
-  And this is my blog on reverse engineering, programming, vr finds and miscellaneous stuff.
-  You can find my firmware archive and other things @ <a href="https://cocaine.trade">cocaine.trade</a>
+  Hi! I'm <a href="https://twitter.com/ptrpaws">Ellie</a> and currently 21 years old!
+  I love learning and breaking things in interesting ways :3
+  Welcome to my blog on reverse engineering, vr finds and whatever is on my mind at the moment
+  You can find my firmware archive @ <a href="https://cocaine.trade">cocaine.trade</a>
 lang: en-US
 timezone:  Europe/Rome
 data-theme: dark # default theme "dark" | "light"
@@ -91,5 +92,3 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
-
-
