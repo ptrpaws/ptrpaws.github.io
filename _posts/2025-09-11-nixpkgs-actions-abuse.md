@@ -147,10 +147,10 @@ it only took us about a day to find, report, and help fix a vulnerability that c
 big thanks to intrigus and everyone at KITCTF (intrigus gave [a talk about exactly these issues](https://kitctf.de/learning/insecure-github-actions) that taught us how this works), and thanks to infinisil for fixing this on the same day we reported it.
 
 if you want to learn more, check out these resources:
-- https://kitctf.de/talks/2023-10-26-insecure-github-actions/insecure-github-actions.pdf
-- https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/
-- https://github.com/NixOS/nixpkgs/pull/351446
+- [https://kitctf.de/talks/2023-10-26-insecure-github-actions/insecure-github-actions.pdf](https://kitctf.de/talks/2023-10-26-insecure-github-actions/insecure-github-actions.pdf])
+- [https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/](https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/)
+- [https://github.com/NixOS/nixpkgs/pull/351446](https://github.com/NixOS/nixpkgs/pull/351446)
 
-also, if you're curious, you can watch our original lightning talk from nixcon here: youtube.com/live/_7wqXN-7ebw?t=38450s
+also, if you're curious, you can watch [our original lightning talk](https://youtube.com/live/_7wqXN-7ebw?t=38450s) from nixcon
 
 anyway that's all. stay safe with your github actions. meow :3
