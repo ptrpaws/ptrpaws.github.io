@@ -5,7 +5,7 @@ description: Pwning Nixpkgs with a single pull request
 tags: nixpkgs nix github-actions vulnerability
 ---
 
-last year at nixcon, me and [my friend lexi](https://mastodon.catgirl.cloud/@49016) gave [a lightning talk](youtube.com/live/_7wqXN-7ebw?t=38450s) about how we found a vulnerability in nixpkgs that would have allowed us to pwn pretty much the entire nix ecosystem and inject malicious code into nixpkgs. it only took us about a day from starting our search to reporting it and getting it fixed. since i unfortunately was too sick to attend this years nixcon, i thought it might be a good time to write up what we found and how we did it.
+last year at nixcon, me and [my friend lexi](https://mastodon.catgirl.cloud/@49016) gave [a lightning talk](https://youtube.com/live/_7wqXN-7ebw?t=38450s) about how we found a vulnerability in nixpkgs that would have allowed us to pwn pretty much the entire nix ecosystem and inject malicious code into nixpkgs. it only took us about a day from starting our search to reporting it and getting it fixed. since i unfortunately was too sick to attend this years nixcon, i thought it might be a good time to write up what we found and how we did it.
 
 ## github actions: the easy target
 
